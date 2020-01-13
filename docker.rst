@@ -5,3 +5,5 @@ https://linuxize.com/post/how-to-remove-docker-images-containers-volumes-and-net
 docker system prune --volumes //remove all volumes
 
 docker container ls -a //list all containers
+
+(running postgres in docker)[https://www.saltycrane.com/blog/2019/01/how-run-postgresql-docker-mac-local-development/]
