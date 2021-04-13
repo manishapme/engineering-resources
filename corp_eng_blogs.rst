@@ -4,3 +4,4 @@ Corporate Engineering Blogs
 - https://redditblog.com
 - https://blog.cloudflare.com/how-verizon-and-a-bgp-optimizer-knocked-large-parts-of-the-internet-offline-today/
 - https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/
+- https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/
