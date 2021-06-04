@@ -7,3 +7,4 @@ Corporate Engineering Blogs
 - https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/
 - https://sigops.org/s/conferences/hotos/2021/papers/hotos21-s11-bronson.pdf
 - https://engineering.fb.com/2014/11/14/production-engineering/solving-the-mystery-of-link-imbalance-a-metastable-failure-state-at-scale/
+- https://developer.twitter.com/en/docs/tutorials/uploading-media
