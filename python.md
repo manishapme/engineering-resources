@@ -1,1 +1,2 @@
+- [Python Standard Library Docs](https://docs.python.org/3/library/index.html)
 - https://towardsdatascience.com/finally-learn-how-to-use-command-line-apps-by-making-one-bd5cf21a15cd
