@@ -8,3 +8,4 @@ Highly Available, Highly Scalable Patterns
 - https://www.tedinski.com/2019/03/05/backpressure.html
 - [Three Stooges Problem](https://thenewstack.io/how-reddit-solved-devops-three-stooges-in-a-door-problem/)
 - https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR
+- https://github.com/donnemartin/system-design-primer
