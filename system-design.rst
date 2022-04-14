@@ -10,3 +10,4 @@ Highly Available, Highly Scalable Patterns
 - https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR
 - https://github.com/donnemartin/system-design-primer
 - https://roadmap.sh/backend
+- https://www.oreilly.com/library/view/release-it-2nd/9781680504552/
