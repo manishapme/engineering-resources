@@ -11,3 +11,4 @@ Highly Available, Highly Scalable Patterns
 - https://github.com/donnemartin/system-design-primer
 - https://roadmap.sh/backend
 - https://www.oreilly.com/library/view/release-it-2nd/9781680504552/
+- https://en.wikipedia.org/wiki/Design_Patterns
