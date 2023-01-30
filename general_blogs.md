@@ -7,3 +7,4 @@ https://thedailywtf.com/
 [List of Jargon](http://www.catb.org/jargon/html/go01.html)
 
 [Things You Should Never Do](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/)
+[Rules of the Internet](https://knowyourmeme.com/memes/rules-of-the-internet)
