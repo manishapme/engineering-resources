@@ -2,6 +2,7 @@
 - https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2
 - [Go functions: returning structs vs pointers. Mario Macias' handcrafted blog](https://macias.info/entry/201802102230_go_values_vs_references.md)
 - [styleguide](https://google.github.io/styleguide/go/decisions#naming)
+- [distributed systems tutorials in go](https://fly.io/dist-sys/)
 
 ## Useful playgrounds
 - [understand pointers](https://play.golang.org/p/CKAIPANJiJR)
